@@ -1,0 +1,4 @@
+show run | i hostname
+show ip int br
+show clock
+#------------------------------
